@@ -1,0 +1,27 @@
+{
+  "Label": [
+    "LinkedIn",
+    "YouTube",
+    "NMIMS COLLEGE",
+    "Kaggle",
+    "Amazon ML Summer School",
+    "LTIMINDTREE",
+    "Pando Data",
+    "Friends",
+    "Other",
+    "IBM",
+    "High Priority"
+  ],
+  "EmailMap": {
+    "enterpriseit.adsupport@ltimindtree.com": "LTIMINDTREE",
+    "mpstme.admission@nmims.edu": "NMIMS COLLEGE",
+    "vishwakarmashubham372@gmail.com": "Pando Data",
+    "elizabeth@bandana.com": "",
+    "testacciuntmyaccout@gmail.com": "",
+    "ibm_email_address": "IBM"
+  },
+  "Friends": [],
+  "HighPriorityEmails": [
+    "systemaluglass@gmail.com"
+  ]
+}
